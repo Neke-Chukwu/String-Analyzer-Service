@@ -1,0 +1,37 @@
+{
+  "strings": [
+    {
+      "id": "cc7dfb115baea04a3e7f6fb52fb4aaa42b08f7a9561fa7a10e4c8d0e2d2be2a3",
+      "value": "madam anna civic",
+      "length": 16,
+      "is_palindrome": false,
+      "unique_characters": 8,
+      "word_count": 3,
+      "character_frequency_map": {
+        "m": 2,
+        "a": 4,
+        "d": 1,
+        " ": 2,
+        "n": 2,
+        "c": 2,
+        "i": 2,
+        "v": 1
+      },
+      "created_at": "2025-10-22T18:12:38.110Z"
+    },
+    {
+      "id": "bea359bea8f7d88ecff298e31876c7206ca36df3e5344293020ea745f9577378",
+      "value": "civic",
+      "length": 5,
+      "is_palindrome": true,
+      "unique_characters": 3,
+      "word_count": 1,
+      "character_frequency_map": {
+        "c": 2,
+        "i": 2,
+        "v": 1
+      },
+      "created_at": "2025-10-22T18:13:27.399Z"
+    }
+  ]
+}
